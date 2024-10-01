@@ -1,0 +1,15 @@
+.product {
+  display: flex;
+  padding: 20px 10px;
+  margin: 10px auto;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.product_in_stock {
+  box-shadow: 2px 2px 5px greenyellow;
+}
+
+.product_unavailable {
+  box-shadow: 2px 2px 5px rgb(187, 44, 44);
+}

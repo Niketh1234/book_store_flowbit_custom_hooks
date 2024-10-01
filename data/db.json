@@ -1,0 +1,30 @@
+{
+    "products":
+    [
+        {
+            "id":1234,
+            "name":"Complete React Js",
+            "price":1000,
+            "in_stock":true
+        },
+        {
+            "id":1235,
+            "name":"A book for Blockchain",
+            "price":2000,
+            "in_stock":false
+        },
+        {
+            "id":1236,
+            "name":"Django framework using python",
+            "price":199,
+            "in_stock":false
+        },
+        {
+            "id":1237,
+            "name":"Learn Tailwind CSS with this book",
+            "price":999,
+            "in_stock":true
+        }
+    ]
+}
+
